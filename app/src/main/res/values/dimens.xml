@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_5dp">5dp</dimen>
+    <dimen name="padding_4dp">4dp</dimen>
+    <dimen name="large_image_width">184dp</dimen>
+    <dimen name="large_image_height">150dp</dimen>
+    <dimen name="margin_14dp">14dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
